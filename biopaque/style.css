@@ -1,0 +1,20 @@
+.titulo{
+    background-color: orange;
+    text-align: center;
+}
+.bio{
+        height: 200px;
+        overflow-y: scroll;
+        overflow: center;
+        width: 800px;
+        text-align: center;
+        margin: 0%;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
+.final{
+    background-color: orange;
+    text-align: center;
+}
